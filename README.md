@@ -36,7 +36,6 @@ This project performs basic CRUD operations: Insert, Update, Delete, and View st
 
 ---
 
----
 
 ## 🌟 Future Enhancements
 
@@ -51,9 +50,4 @@ This project performs basic CRUD operations: Insert, Update, Delete, and View st
 
 Developed as part of daily Java practice projects.
 
----
 
-## 📜 License
-
-This project is open-source and free to use for learning purposes.
-   
