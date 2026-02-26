@@ -32,3 +32,4 @@ This project performs basic CRUD operations: Insert, Update, Delete, and View st
 2. Create a file named:
 3. Paste the code into the file.
 4. Compile and run:
+   StudentDBManagement.java
