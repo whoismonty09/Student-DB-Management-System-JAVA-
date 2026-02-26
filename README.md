@@ -48,6 +48,6 @@ This project performs basic CRUD operations: Insert, Update, Delete, and View st
 
 ## 👨‍💻 Author
 
-Developed as part of daily Java practice projects.
+Developed by Monty
 
 
