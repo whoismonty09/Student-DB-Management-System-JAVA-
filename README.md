@@ -33,3 +33,27 @@ This project performs basic CRUD operations: Insert, Update, Delete, and View st
 3. Paste the code into the file.
 4. Compile and run:
    StudentDBManagement.java
+
+---
+
+---
+
+## 🌟 Future Enhancements
+
+- Add file storage (save records to file)  
+- Add GUI using Java Swing  
+- Add MySQL database using JDBC  
+- Search student by ID or name  
+
+---
+
+## 👨‍💻 Author
+
+Developed as part of daily Java practice projects.
+
+---
+
+## 📜 License
+
+This project is open-source and free to use for learning purposes.
+   
